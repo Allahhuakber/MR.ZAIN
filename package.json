@@ -1,12 +1,12 @@
 {
-  "name": "SOBIA-MD",
+  "name": "MR.ZAIN",
   "version": "1.0.0",
   "description": "A WhatsApp bot created using Bailey's",
   "main": "index.js",
   "scripts": {
     "start": "pm2 start index.js --deep-monitoring --attach --name SOBIA-MD",
-    "stop": "pm2 stop SOBIA-MD",
-    "restart": "pm2 restart SOBIA-MD"
+    "stop": "pm2 stop MR.ZAIN",
+    "restart": "pm2 restart MR.ZAIN"
   },
   "dependencies": {
     "@whiskeysockets/baileys": "6.7.9",
